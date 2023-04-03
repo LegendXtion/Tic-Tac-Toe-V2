@@ -12,8 +12,12 @@
 <br>
 
 ## To Install
-`git clone https://github.com/LegendXtion/Tic-Tac-Toe-V2`
-<br>
-`cd Tic-Tac-Toe-V2`
-<br>
-`python main.py`
+```
+git clone https://github.com/LegendXtion/Tic-Tac-Toe-V2
+```
+```
+cd Tic-Tac-Toe-V2
+```
+```
+python main.py
+```
